@@ -8,7 +8,7 @@
 데이터로 123입력 후 결과.
 <img src="https://user-images.githubusercontent.com/60742556/75649332-21320f00-5c96-11ea-9934-b6774a47f572.PNG"><br>
 
-### SHA-256 예제.
+### AES-256 예제.
 
 입력데이터를 AES-256방식으로 암호화. <br>
 (암호화한 데이터 복호하 가능. 양방향 해시)<br>
