@@ -11,7 +11,7 @@
 ### AES-256 예제.
 
 입력데이터를 AES-256방식으로 암호화. <br>
-(암호화한 데이터 복호하 가능. 양방향 해시)<br>
+(암호화한 데이터 복호 가능. 양방향 해시)<br>
 <br>
 <img src="https://user-images.githubusercontent.com/60742556/75783260-9fc8a280-5da3-11ea-8b1c-b32150afc725.PNG"><br>
 데이터로 123입력 후 결과.
